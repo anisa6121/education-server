@@ -18,6 +18,10 @@ app.get("/course", (req, res) => {
 	res.send(courseId);
 }); 
 
+app.get("/allCourse", (req, res) => {
+	res.send(courseInfo);
+}); 
+
 
 app.get("/course/:id", (req, res) => {
 	const id = req.params.id;
@@ -27,6 +31,8 @@ app.get("/course/:id", (req, res) => {
 }); 
 
 
+
+
 app.listen(Port, () => {
-	console.log("Server is Running On Webite", Port);
+	console.log("Server is Running On Website", Port);
 });
