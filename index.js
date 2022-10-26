@@ -22,5 +22,5 @@ app.get("/course", (req, res) => {
 
 
 app.listen(Port, () => {
-	console.log("Server is Running On Wesite", Port);
+	console.log("Server is Running On Webite", Port);
 });

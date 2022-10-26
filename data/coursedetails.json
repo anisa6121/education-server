@@ -1,0 +1,76 @@
+[
+
+{
+"_id": 1,
+"title": "English",
+"price": 1500,
+"Lesson": 50,
+"description": "The necessity of learning English can never be overstated. It is an international language. We feel the necessity of learning English at every step of our life.Most of the job facilities largely depend on the knowledge of English.English is a global language and knowing it can help you in lots of ways. If you speak good English, you can access wide range of resources, apply to study at universities abroad, get a good job in international companies and even broaden your network with people from all over the world.  If you want to learn English as a beginner and take it to an advanced level, this course is for you. There are 50 chapters. Where English is discussed from the very beginning. There are 10 exam for 50 chapters so that learners can test themselves well. ",
+
+"image": "https://parlayaq.com/wp-content/uploads/2021/07/subject_50.jpg"
+
+},
+
+{
+"_id": 2,
+"title": "Bangla Grammar",
+"price": 600,
+"Lesson": 30,
+"description": "All the chapters of Bengali Grammar book for 9th-10th class are discussed in a very simple way so that students can understand the difficult topics more easily. Various animation videos have been added to the course which will make the lessons more engaging for the students.Knowing or learning something is not the real purpose of education. The real purpose of education is to develop the ability to know or learn in a boy or girl. He who has the ability to know or learn within himself can know or learn anything by himself.",
+
+"image": "https://play-lh.googleusercontent.com/B9-t93ITwWX7OcuyJfTB3SCOFRQ-WEcR23Vz6kghAOjyI6yA95nzkEj0juaEMAvqjQ"
+
+},
+
+{
+"_id": 3,
+"title": "Math",
+"price": 2500,
+"Lesson": 45,
+"description": "Mathematics topics that every literate person needs to know to process, evaluate and understand numerical and graphical data in our society. Applications of mathematics in problem solving, finance, probability, statistics, geometry, population growth. Here the subjects are taught very simply through 45 lessons.  There are 12 exam for 45 chapters so that learners can test themselves well. ",
+
+"image": "https://media.istockphoto.com/vectors/physics-and-mathematics-books-on-sheet-of-paper-vector-id1214426753?s=612x612"
+
+},
+
+{
+"_id": 4,
+"title": "ICT",
+"price": 3500,
+"Lesson": 50,
+"description": "“HSC ICT A Complete Course” for Class XI-XII.If you think that publishing your ICT book is not enough, you can learn every digit from personal basics through democracy. Also each chapter will have one sheet on it. There will be around 100 lessons with answers to various board questions from 2016. Answers to multiple choice questions will be given on each chapter of Number System, Digital Devices, HTML, Programming Language and DBMS. Any time, any situation even before your every exam I will be with you at support day and night.",
+
+"image": "https://www.admissionwar.com/wp-content/uploads/2018/06/hsc-ict-book-1www.admissionwar.com_-223x300.jpg"
+
+},
+
+{
+"_id": 5,
+"title": "Javascript for biggener",
+"price": 2500,
+"Lesson": 30,
+"description": "This course gets you started with an introduction to JavaScript. We assume that you're new to the language, so it gets you started with basic functionality such as creating functions, creating variables, and calling these lines of code from your standard HTML pages. We talk about events and triggers for custom event handling. We also discuss pattern matching, searching for text within a page, flow control and the document object model (DOM). We start off with the basics and move on to more complex functionality such as arrays and objects. We then discuss how to script common elements with JavaScript such as forms and tables.  At the very end, we discuss major libraries such as Ajax, which allows you to make asynchronous calls to server-side scripts without reloading the web page on the server.Whether you're just getting started in web design or want to learn how to code JavaScript, this course is for you.",
+
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlQl4J4KGF_BTd5fTpdw-1svh2MxYF275eW2-Bf-GLw&s"
+
+},
+
+{
+"_id": 6,
+"title": "React",
+"price": 3000,
+"Lesson": 47,
+"description": "the main objective of this React course is to help you become familiar with the process and gain the skills you'll need to become a professional React developer. You will learn the fundamentals of React through self-paced and instructor-led training to understand and build React components and structure applications with Redux. React.js is a versatile JavaScript library for building interactive user interfaces easily. It is used by companies such as Facebook and Instagram. If you are planning to create UI/UX solutions for mobile or web, this course is extremely beneficial to improve your working skills.",
+
+"image": "https://reactjs.org/logo-og.png"
+
+}
+
+
+
+
+
+
+ 
+
+]
