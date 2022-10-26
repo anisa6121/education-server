@@ -7,7 +7,7 @@ const Port = process.env.port || 5000;
 
 const courseId = require("./data/course.json")
 
-
+const courseInfo = require("./data/coursedetails.json");
     
 app.get("/", (req, res) => {
 	res.send("Server Is Running");
@@ -19,6 +19,12 @@ app.get("/course", (req, res) => {
 }); 
 
 
+app.get("/course/:id", (req, res) => {
+	const id = req.params.id;
+	const selectedCourse = courseInfo.find((course) => course._id == id);
+
+	res.send(selectedCourse);
+}); 
 
 
 app.listen(Port, () => {
